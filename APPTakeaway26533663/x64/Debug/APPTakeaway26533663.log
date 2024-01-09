@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Josep\OneDrive\Documents\Applied Programming Paradigms\APPTakeaway26533663\main.cpp(57,29): warning C4101: 'e': unreferenced local variable
+C:\Users\Josep\OneDrive\Documents\Applied Programming Paradigms\APPTakeaway26533663\main.cpp(60,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Josep\OneDrive\Documents\Applied Programming Paradigms\APPTakeaway26533663\main.cpp(83,29): warning C4101: 'e': unreferenced local variable
+C:\Users\Josep\OneDrive\Documents\Applied Programming Paradigms\APPTakeaway26533663\main.cpp(86,33): warning C4101: 'e': unreferenced local variable
+  APPTakeaway26533663.vcxproj -> C:\Users\Josep\OneDrive\Documents\Applied Programming Paradigms\APPTakeaway26533663\x64\Debug\APPTakeaway26533663.exe
